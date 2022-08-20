@@ -122,6 +122,13 @@ http://localhost:5000/api/animals?species=cat
     "age": 7,\
     "gender": "Female",\
 }\
+{\
+    "animalId": 4,\
+    "name": "Pip",\
+    "species": "Cat",\
+    "age": 4,\
+    "gender": "Male",\
+}\
 ]
 
 
